@@ -8,4 +8,4 @@ different for each file. So windows couldn't detect the duplicacy.
 So instead of removing all those duplicates and giving a load on my down arrow key and delete key, 
 I thought it'd be better to just code it out.
 
-So by just using Python and os module, I was done in few lines of code.
+So by just using Python and os module, I was done in 9 LOC.
