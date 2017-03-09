@@ -1,7 +1,7 @@
 # Redundant-File-Remover
 Python code to remove duplicate files from a directory/folder
 
-It just happened that I downloaded a torrent of 425 pdf e-books (no seriously) and it turned out there were 
+It just happened that I downloaded a directory of 425 pdf files and it turned out there were 
 lots of duplicate files. They all started with a 6-digit string which was common and then followed by some hex code 
 different for each file. So windows couldn't detect the duplicacy.
 
